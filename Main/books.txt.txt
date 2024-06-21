@@ -1,0 +1,5 @@
+The Great Gatsby,F. Scott Fitzgerald,9.99,1925
+To Kill a Mockingbird,Harper Lee,7.99,1960
+1984,George Orwell,8.99,1949
+Moby Dick,Herman Melville,10.99,1851
+Pride and Prejudice,Jane Austen,6.99,1813
